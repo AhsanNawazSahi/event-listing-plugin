@@ -2,8 +2,8 @@
 /*
 	Plugin Name: Events Lister
 	Description: This Plugin is for listing of different Events.
-	Version: 0.1
-	Author: Ali Nawaz Sahi
+	Version: 1.0
+	Author: Ahsan Nawaz Sahi
 */
 
 
